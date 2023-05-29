@@ -27,4 +27,9 @@ class omar
     {
         return 5;
     }
+
+    public function hello11()
+    {
+        return 2222222222;
+    }
 }
