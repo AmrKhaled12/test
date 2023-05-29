@@ -23,4 +23,8 @@ class omar
     {
         return 4;
     }
+    public function hello5()
+    {
+        return 5;
+    }
 }
