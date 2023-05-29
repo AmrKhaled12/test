@@ -8,4 +8,9 @@ class omar
     {
         return 1;
     }
+
+    public function hello2()
+    {
+        return 2;
+    }
 }
